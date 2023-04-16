@@ -19,4 +19,5 @@ Je důležité mít na paměti, že AlkCheck a jiné aplikace na měření alkoh
 ## Jak aplikace funguje
 Při prvním zapnutí se uživateli zobrazí **start**, kde vyplní pohlaví, aktuální hmotnost a věk. 
 ### Přidaní nápojů
-Kliknutím na tlačítko nová akce přidá uživatel nápoj/nápoje. Může si vybrat z "presetů" nebo zadat vlastní nápoj (Zde určí obsah alkoholu v procentech a množství v mililitrech.
+Kliknutím na tlačítko nová akce přidá uživatel nápoj/nápoje. Může si vybrat z "presetů" nebo zadat vlastní nápoj (Zde určí obsah alkoholu v procentech a množství v mililitrech.)
+fdsffdfdghgdhsgsdh
