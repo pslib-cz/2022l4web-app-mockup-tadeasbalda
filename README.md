@@ -7,6 +7,6 @@ Odkaz na [Figmu](https://www.figma.com/file/4QyyLnFcu5gESYeS9DOVkS/Untitled?node
 
 
 ## Jak aplikace funguje
-Při prvním zapnutí se uživateli zobrazáý
+Při prvním zapnutí se uživateli zobrazí **start**, kde vyplní pohlaví, aktuální hmotnost a věk. 
 ### Přidaní nápojů
-Kliknutímna talčítko nová akce přidá uživatel nápoj/nápoje. Může si vybrat z "presetů" nebo zadat vlastní nápoj (Zde určí obsah alkoholu v procentech a množství v mililitrech.
+Kliknutím na tlačítko nová akce přidá uživatel nápoj/nápoje. Může si vybrat z "presetů" nebo zadat vlastní nápoj (Zde určí obsah alkoholu v procentech a množství v mililitrech.
