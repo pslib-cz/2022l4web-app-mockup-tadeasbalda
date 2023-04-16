@@ -12,7 +12,7 @@ Je důležité mít na paměti, že AlkCheck a jiné aplikace na měření alkoh
 ## Fonty
 - [SF Pro](https://developer.apple.com/fonts/)
 ## Barvy
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#D04949](https://placehold.co/15x15/D04949/D04949.png) `#D04949`
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 
