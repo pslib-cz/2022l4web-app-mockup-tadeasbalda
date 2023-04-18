@@ -15,6 +15,7 @@ APlikace
 Jako výchozí font byl vybrán SF Pro, který ve většině případů používají aplikace firmy Apple.
 - [SF Pro](https://developer.apple.com/fonts/)
 ### Barvy
+Zde je k dispozici paleta barev, které jsou použity.
 - ![#D04949](https://placehold.co/15x15/D04949/D04949.png) `#D04949`
 - ![#49D05F](https://placehold.co/15x15/49D05F/49D05F.png) `#49D05F`
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
