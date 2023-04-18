@@ -27,10 +27,20 @@ Při zapnutí se uživateli zobrazí **Úvodní stránka**, kde zvolí akci.
 
 ### Přidaní nápojů
 Kliknutím na tlačítko nová akce přidá uživatel nápoj/nápoje. Může si vybrat z "presetů" nebo zadat vlastní nápoj (Zde určí obsah alkoholu v procentech a množství v mililitrech.)
+## Domovská stránka
+Ta ukazuje 4 stavy:
+-Úplně v pořádku - uživatel je zcela střízlí
+
+-V lehce podnapilém stavu
+
+-Podnapilí stav
+
+-Stav ohrožujicí život
+
 ## Graf
 Tato záložka uživateli ukazuje stav jeho hladiny alkoholu v krvi na jednoduchém grafu.
 ## Kalendář
 Zde si uživatel může zobrazit historii. Po rozkliknu datumu se zobrazí 
 ## Zpátky domu
-Pomocí funkce
+Pomocí této funkce je uživatel naváděn (díky GPS) do předem zadané lokality. 
 
