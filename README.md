@@ -30,7 +30,7 @@ Kliknutím na tlačítko nová akce přidá uživatel nápoj/nápoje. Může si 
 ## Graf
 Tato záložka uživateli ukazuje stav jeho hladiny alkoholu v krvi na jednoduchém grafu.
 ## Kalendář
-Zde si uživatel může zobrazit historii.
+Zde si uživatel může zobrazit historii. Po rozkliknu datumu se zobrazí 
 ## Zpátky domu
-
+Pomocí funkce
 
