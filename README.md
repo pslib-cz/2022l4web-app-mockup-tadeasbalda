@@ -7,9 +7,9 @@ Po zadání všech potřebných údajů v aplikaci, AlkCheck vyhodnotí hladinu 
 
 AlkCheck také umožňuje uživatelům zaznamenávat své pití a sledovat hladinu alkoholu v krvi v průběhu času. Aplikace také nabízí možnost nastavit upozornění, která uživatele upozorní, když je jejich hladina alkoholu v krvi příliš vysoká.
 
-Je důležité mít na paměti, že AlkCheck a jiné aplikace na měření alkoholu nejsou stoprocentně přesné a nemohou nahradit profesionální měření hladiny alkoholu v krvi. Tyto aplikace jsou však užitečným nástrojem pro osoby, které se zajímají o své zdraví a chtějí zůstat v bezpečí, když pijí alkohol.
+Je důležité mít na paměti, že AlkCheck a jiné aplikace na měření alkoholu nejsou stoprocentně přesné a nemohou nahradit profesionální měření hladiny alkoholu v krvi.
 ## Design aplikace
-APlikace 
+Aplikace se snaží o co nejčistší design a přístupnost, aby 
 
 ### Fonty
 Jako výchozí font byl vybrán SF Pro, který ve většině případů používají aplikace firmy Apple.
@@ -19,9 +19,18 @@ Zde je k dispozici paleta barev, které jsou použity.
 - ![#D04949](https://placehold.co/15x15/D04949/D04949.png) `#D04949`
 - ![#49D05F](https://placehold.co/15x15/49D05F/49D05F.png) `#49D05F`
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+- ![#F9D040](https://placehold.co/15x15/F9D040/F9D040.png) `#F9D040`
+
 
 ## Jak aplikace funguje
-Při prvním zapnutí se uživateli zobrazí **start**, kde vyplní pohlaví, aktuální hmotnost a věk. 
+Při zapnutí se uživateli zobrazí **Úvodní stránka**, kde zvolí akci.
+
 ### Přidaní nápojů
 Kliknutím na tlačítko nová akce přidá uživatel nápoj/nápoje. Může si vybrat z "presetů" nebo zadat vlastní nápoj (Zde určí obsah alkoholu v procentech a množství v mililitrech.)
-fdsffdfdghgdhsgsdh
+## Graf
+Tato záložka uživateli ukazuje stav jeho hladiny alkoholu v krvi na jednoduchém grafu.
+## Kalendář
+Zde si uživatel může zobrazit historii.
+## Zpátky domu
+
+
