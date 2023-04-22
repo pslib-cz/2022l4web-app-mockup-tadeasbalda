@@ -4,7 +4,7 @@ Cílem tohoto projektu bylo vytvoření herního prostředí a assetů pro hru *
 ## Děj hry
 Hra se odehrává v bludišti. Hráč má za úkol se dostat co nejrychleji z jednoho konce bludiště na druhý. Maximální limit pro protnutí bludiště je **180 sekund**. Po cestě se ovšem naráží na různé přeměty a překážky, je dobré se některým vyvarovat, protože totiž ubírají drahocenný čas.
 ## Mechanika hry
-Čas se začně odpočítávat po hráčově prvním pohybu. Čas hráč stále vidí, aby měl představu o průběhu hry. Pokud hráč v některém místě narazí na nějaký z předmětů musí ho sebrat.
+Čas se začně odpočítávat po hráčově prvním pohybu. Čas hráč stále vidí, aby měl představu o průběhu hry. Pokud hráč v některém místě narazí na nějaký z předmětů musí ho sebrat, respektive pokud na něj narazí, předmět ho nějaký způsobem ovlivní (viz. předměty).
 ### Výpočet skóre
 Po objevení konce bludiště se hráčovi stopne čas, a sečtou body. Výsledný čas v sekundách (i s penalizacemi) se odečte od 180 a přičtou se všechny posbírané body.
 #### Příklad
@@ -30,6 +30,7 @@ Je ze všech nejrychlejší, ale nemá dostatek síly, aby přemístil překáž
 Má sílu odstranit i ty nejtežší překážky. Pokaždé, když odstraní z cesty sud, dostane navíc 3 sekundy.
 #### Quinn the Quester
 ![Quinn the Quester](https://github.com/pslib-cz/2022l4web-app-mockup-BinBaldin/blob/main/ch.3.PNG)
+Pokud narazí na láhev, nemusí se vracet na start.
 
 ### Překážky
 V bludišti se nachází překážky. Jsou rozděleny do 3 kategorii podle obtížnosti. Většinou jdou odtlačit, nicméně těm největším se může postavit jen postava **Salem the Seeker**. 
