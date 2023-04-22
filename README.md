@@ -15,7 +15,7 @@ Hráč zdolal celé bludiště za 87 sekund, cestou dostal penalizaci 8 sekund a
 
 
 ## Jednotlivé Assety
-Assety jsou modelované v Blenderu a texturované v Substance Painteru. 
+Assety jsou modelované v Blenderu a texturované v Substance Painteru. Při importovaní do Unikty je důležité myslet na to, že některé assety nemají správnou velikost, takže je potřeba si trošičku pohrát s velikostí.
 ### Labyrint
 ![Labyrit](https://github.com/pslib-cz/2022l4web-app-mockup-BinBaldin/blob/main/Maze.PNG)
 
