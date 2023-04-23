@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/6kTgNeEK)
 # Maze race
-Cílem tohoto projektu bylo vytvoření herního prostředí a assetů pro hru **Maze race**. Na [Google Disku](https://drive.google.com/drive/u/1/folders/1yfuxaFa8sqAjGxhZ-LU8c_jhSMjYJtIB) najdeme projekt v unity, kde jsou všechny Assety naimporotvané a připravené pro zprovoznění.
+Cílem tohoto projektu bylo vytvoření herního prostředí a assetů pro hru **Maze race**.
 ## Děj hry
 Hra se odehrává v bludišti. Hráč má za úkol se dostat co nejrychleji z jednoho konce bludiště na druhý. Maximální limit pro protnutí bludiště je **180 sekund**. Po cestě se ovšem naráží na různé přeměty a překážky, je dobré se některým vyvarovat, protože totiž ubírají drahocenný čas.
 ## Mechanika hry
